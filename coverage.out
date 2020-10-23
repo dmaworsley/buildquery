@@ -1,0 +1,25 @@
+mode: set
+github.com/gofiliate/goquerybuilder/isnull.go:3.65,10.2 4 1
+github.com/gofiliate/goquerybuilder/join.go:4.120,18.2 8 1
+github.com/gofiliate/goquerybuilder/isnotnull.go:3.68,10.2 4 1
+github.com/gofiliate/goquerybuilder/lessthan.go:3.70,10.2 4 1
+github.com/gofiliate/goquerybuilder/from.go:3.73,9.2 3 1
+github.com/gofiliate/goquerybuilder/greaterthan.go:3.76,10.2 4 1
+github.com/gofiliate/goquerybuilder/greaterthanequalto.go:3.87,10.2 4 1
+github.com/gofiliate/goquerybuilder/columns.go:3.68,11.2 4 1
+github.com/gofiliate/goquerybuilder/utils.go:3.73,6.29 2 1
+github.com/gofiliate/goquerybuilder/utils.go:10.2,10.29 1 1
+github.com/gofiliate/goquerybuilder/utils.go:14.2,15.8 2 1
+github.com/gofiliate/goquerybuilder/utils.go:6.29,8.3 1 1
+github.com/gofiliate/goquerybuilder/utils.go:10.29,12.3 1 1
+github.com/gofiliate/goquerybuilder/utils.go:18.80,27.2 5 1
+github.com/gofiliate/goquerybuilder/utils.go:30.63,35.30 3 1
+github.com/gofiliate/goquerybuilder/utils.go:42.2,43.8 2 1
+github.com/gofiliate/goquerybuilder/utils.go:35.30,37.15 1 1
+github.com/gofiliate/goquerybuilder/utils.go:37.15,40.4 2 1
+github.com/gofiliate/goquerybuilder/notequalto.go:3.74,11.2 4 1
+github.com/gofiliate/goquerybuilder/notin.go:3.79,12.2 5 1
+github.com/gofiliate/goquerybuilder/select.go:3.30,7.2 2 1
+github.com/gofiliate/goquerybuilder/equalto.go:3.68,11.2 4 1
+github.com/gofiliate/goquerybuilder/in.go:3.76,12.2 5 1
+github.com/gofiliate/goquerybuilder/lessthanequalto.go:3.81,10.2 4 1
